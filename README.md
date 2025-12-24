@@ -1,0 +1,2 @@
+# Aviation-Safety-Analytics-in-Excel-Global-Airplane-Crashes-1918-2022-
+A group-based Excel dashboard project analyzing global airplane crash data (1918–2022). The analysis examines crash frequency, fatalities, survivability, flight phases, aircraft models, regions, and root causes, demonstrating Excel’s capability for data cleaning, KPI reporting, and interactive dashboard-driven safety insights.
